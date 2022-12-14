@@ -1,0 +1,3 @@
+
+gradle task
+gradle installMainExecutable

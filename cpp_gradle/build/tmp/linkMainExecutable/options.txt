@@ -1,0 +1,5 @@
+-o
+/home/xiejiebin/build_tutorial/cpp_gradle/build/exe/main/main
+/home/xiejiebin/build_tutorial/cpp_gradle/build/objs/main/mainCpp/5v08dtn7cszvzrlgdayn1y9u6/main.o
+/home/xiejiebin/build_tutorial/cpp_gradle/build/libs/hello/shared/libhello.so
+-m64

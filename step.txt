@@ -1,0 +1,11 @@
+
+gradle download
+https://gradle.org/releases/
+jdk download
+https://gradle.org/install/
+https://adoptium.net/zh-CN/temurin/releases/?version=11
+export COMPILE_ROOT=/home/xiejiebin/build_tutorial
+export JAVA_HOME=${COMPILE_ROOT}/jdk-11.0.17+8
+export PATH=$PATH:${COMPILE_ROOT}/gradle-7.6/bin
+
+source ~/.bashrc

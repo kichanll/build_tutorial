@@ -1,0 +1,6 @@
+-shared
+-Wl,-soname,libhello.so
+-o
+/home/xiejiebin/build_tutorial/cpp_gradle/build/libs/hello/shared/libhello.so
+/home/xiejiebin/build_tutorial/cpp_gradle/build/objs/hello/shared/helloCpp/9yvvxjk6rbfi58pjbo9jyxid/Hello.o
+-m64

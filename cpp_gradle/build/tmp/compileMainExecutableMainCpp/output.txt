@@ -1,0 +1,4 @@
+See file:///home/xiejiebin/build_tutorial/cpp_gradle/build/tmp/compileMainExecutableMainCpp/output.txt for all output for compileMainExecutableMainCpp.
+compiling main.cpp successful.
+
+Finished compileMainExecutableMainCpp, see full log file:///home/xiejiebin/build_tutorial/cpp_gradle/build/tmp/compileMainExecutableMainCpp/output.txt.

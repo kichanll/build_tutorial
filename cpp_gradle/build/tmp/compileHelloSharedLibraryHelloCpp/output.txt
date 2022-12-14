@@ -1,0 +1,4 @@
+See file:///home/xiejiebin/build_tutorial/cpp_gradle/build/tmp/compileHelloSharedLibraryHelloCpp/output.txt for all output for compileHelloSharedLibraryHelloCpp.
+compiling Hello.cpp successful.
+
+Finished compileHelloSharedLibraryHelloCpp, see full log file:///home/xiejiebin/build_tutorial/cpp_gradle/build/tmp/compileHelloSharedLibraryHelloCpp/output.txt.
